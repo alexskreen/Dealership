@@ -48,6 +48,10 @@ public string GetMakeModel()
     {
       _price = newPrice;
     }
+  public void SetMiles(int newMiles)
+    {
+      _miles = newMiles;
+    }
 }
 
 
